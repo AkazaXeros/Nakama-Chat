@@ -1,0 +1,123 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+logs/*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific files
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# macOS Finder directory preferences
+.metadata_never_index
+.localized
+
+## Windows
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# JetBrains IDEs
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional - Eclipse IDE specific ignores
+.project
+.classpath
+.cdtproject
+.settings/
+.mvn/
+*.launch
+
+# Optional - VS Code specific
+.vscode/
+
+# Optional - WebStorm specific
+.idea/
+*.iml
+out/
+
+# Optional - Sublime Text specific
+*.sublime-workspace
+*.sublime-project
+
+# Optional - JetBrains specific
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Miscellaneous
+*.swp
+*.swo
+*~
+# Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# macOS created file attributes
+.DS_Store
